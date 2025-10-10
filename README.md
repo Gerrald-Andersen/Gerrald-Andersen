@@ -32,8 +32,6 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 ### 🖥️ Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
 ### 🌐 Spoken Languages  
 ![English](https://img.shields.io/badge/English-007ACC?style=for-the-badge) ![Mandarin](https://img.shields.io/badge/Mandarin-F44336?style=for-the-badge) ![Indonesian](https://img.shields.io/badge/Indonesian-4CAF50?style=for-the-badge) ![Malay](https://img.shields.io/badge/Malay-FF9800?style=for-the-badge)
 
