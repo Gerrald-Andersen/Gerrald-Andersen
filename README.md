@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gerrald!
 
-Welcome to my GitHub profile — a space where technical depth meets practical curiosity. I’m currently exploring opportunities in both hospitality and technology, blending hands-on service experience with a passion for digital logic, programming, and data analysis.
+Welcome to my GitHub profile — A space where curiosity meets clarity, and technical exploration blends with real-world practicality.
 
 ---
 
