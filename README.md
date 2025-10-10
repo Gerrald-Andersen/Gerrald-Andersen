@@ -38,16 +38,6 @@ Welcome to my GitHub profile — a space where curiosity meets clarity, and tech
 
 ---
 
-## 🌱 Currently Exploring
-
-- Comparative CPU architectures and instruction sets
-- Advanced Excel automation and dashboard design
-- Boolean algebra and Karnaugh maps
-- Customer experience design in hospitality environments
-- Visual aids for technical education and onboarding
-
----
-
 ## ✨ Personal Traits
 
 - 🧩 **Problem Solver** — I break down complex systems into understandable steps
