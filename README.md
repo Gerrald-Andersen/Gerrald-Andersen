@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gerrald!
 
-Welcome to my GitHub profile — a space where curiosity meets clarity, and technical exploration blends with real-world practicality.
+Welcome to my GitHub profile — a space where technical depth meets practical curiosity. I’m currently exploring opportunities in both hospitality and technology, blending hands-on service experience with a passion for digital logic, programming, and data analysis.
 
 ---
 
@@ -11,20 +11,28 @@ Welcome to my GitHub profile — a space where curiosity meets clarity, and tech
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
-- **Digital Logic & CPU Simulation**
-  - Truth tables, binary arithmetic, ALU design
-  - Assembly language programming for educational CPUs
-- **Excel & Data Analysis**
-  - Troubleshooting formulas and functions (e.g., `QUARTILE`, `IFERROR`, `VLOOKUP`)
-  - PivotTables, conditional formatting, and statistical reasoning
-- **Programming & Debugging**
-  - Writing and testing assembly code
-  - Step-by-step breakdowns of logic and control flow
-- **Multilingual Communication**
-  - Fluent in English, Mandarin, Indonesian, and Malay
-  - Strong written communication for documentation, resumes, and cover letters
+### 💻 Programming Languages
+`Python` • `MySQL` • `Dart` • `HTML5` • `CSS3` • `JavaScript` • `PHP` • `C` • `C++`
+
+### 📚 Frameworks / Libraries
+`NumPy` • `Pandas` • `TensorFlow` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Statsmodels` • `SciPy` • `Scikeras` • `PyTorch` • `Imbalanced-learn` • `CCXT` • `Json` • `XGBoost` • `LightGBM` • `CatBoost` • `Optuna` • `Pickle` • `Streamlit` • `Firebase` • `Bootstrap` • `Flutter`
+
+### 🧰 Developer Tools
+`Visual Studio Code` • `Google Colab` • `Google BigQuery` • `Looker Studio` • `XAMPP` • `GitHub` • `Pub.dev`
+
+### 🧠 Artificial Intelligence
+Machine Learning • Deep Learning
+
+### 🔌 APIs and Integrations
+REST APIs • WebSocket APIs • Public APIs
+
+### 🖥️ Operating Systems
+Windows 11 • Windows 10
+
+### 🌐 Spoken Languages
+English • Mandarin • Indonesian • Malay
 
 ---
 
