@@ -6,9 +6,9 @@ Welcome to my GitHub profile — a space where technical depth meets practical c
 
 ## 🧠 About Me
 
-    I am an AI Developer and Engineer with expertise in designing, developing, and deploying data-driven solutions. My experience spans the entire ML lifecycle, from data preparation and feature engineering to model development, optimization, and production deployment. I am dedicated to delivering reliable, scalable, and impactful solutions that align with business goals and create measurable value.
+I am an AI Developer and Engineer with expertise in designing, developing, and deploying data-driven solutions. My experience spans the entire ML lifecycle, from data preparation and feature engineering to model development, optimization, and production deployment. I am dedicated to delivering reliable, scalable, and impactful solutions that align with business goals and create measurable value.
 
-    Alongside my core focus in ML/AI, I bring strong capabilities in Flutter development, full-stack development, and data analysis, enabling me to contribute across a wide range of technical domains. I have a proven track record of leading teams, collaborating in cross-functional environments, and successfully driving projects from concept to completion. Passionate about continuous learning and innovation, I combine technical expertise with adaptability to meet the evolving demands of modern technology.
+Alongside my core focus in ML/AI, I bring strong capabilities in Flutter development, full-stack development, and data analysis, enabling me to contribute across a wide range of technical domains. I have a proven track record of leading teams, collaborating in cross-functional environments, and successfully driving projects from concept to completion. Passionate about continuous learning and innovation, I combine technical expertise with adaptability to meet the evolving demands of modern technology.
 
 ---
 
