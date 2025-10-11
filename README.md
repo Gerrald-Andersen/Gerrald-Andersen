@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gerrald Andersen!
+# 👋 Hi there, I'm Gerrald Andersen! ([LinkedIn](https://www.linkedin.com/in/gerrald-andersen))
 
 Welcome to my GitHub profile — A space where curiosity meets clarity, and technical exploration blends with real-world practicality.
 
@@ -61,7 +61,5 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 I'm always open to collaboration, feedback, or just a good conversation about tech and learning. Feel free to explore my repositories and drop me a message.
 
 Thanks for stopping by — and happy building!
-
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/gerrald-andersen)
 
 ---
