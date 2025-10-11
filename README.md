@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gerrald!
+# 👋 Hi there, I'm Gerrald Andersen!
 
 Welcome to my GitHub profile — A space where curiosity meets clarity, and technical exploration blends with real-world practicality.
 
