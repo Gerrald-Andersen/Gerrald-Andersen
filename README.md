@@ -39,6 +39,8 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 
 ## 📁 What You'll Find in My Repositories
 
+- 💰 [**Crypto Price Prediction**](https://github.com/Gerrald-Andersen/Crypto_Price_Prediction) — Predicting Bitcoin price trends using LSTM and machine learning models, integrated with a Streamlit dashboard  
+- ❤️ [**Heart Disease Prediction**](https://github.com/Gerrald-Andersen/Heart_Disease_Prediction) — Predicting heart disease risk using Random Forest and other classifiers, with a user-friendly Streamlit web application  
 - 🔬 **Logic Circuit Projects** — Simulations, truth tables, and binary adders
 - 🧮 **Assembly Language Exercises** — Mnemonic-to-binary converters, instruction tracing, accumulator behavior
 - 📊 **Excel Troubleshooting Guides** — Real-world examples, error handling, and data visualization
@@ -49,6 +51,8 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 
 ## ✨ Personal Traits
 
+- 🏆 **Leadership** — Experienced in leading teams and guiding project execution  
+- 🤝 **Team Collaboration** — Skilled at working in cross-functional teams to achieve goals  
 - 🧩 **Problem Solver** — I break down complex systems into understandable steps
 - 💬 **Empathetic Communicator** — I value clarity, patience, and inclusive language
 - 🔍 **Detail-Oriented** — I test, validate, and iterate until things work
