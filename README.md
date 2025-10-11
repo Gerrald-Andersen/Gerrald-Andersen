@@ -62,6 +62,6 @@ I'm always open to collaboration, feedback, or just a good conversation about te
 
 Thanks for stopping by — and happy building!
 
-LinkedIn: https://www.linkedin.com/in/gerrald-andersen
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/gerrald-andersen)
 
 ---
