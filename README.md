@@ -47,7 +47,7 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 - 🛒 [**Point-of-Sales WebApp**](https://github.com/Gerrald-Andersen/Point-of-Sales) — A full-stack web application for managing sales, inventory, and transactions in retail, built with HTML, CSS, JavaScript, and PHP.
 - 📱 [**Flutter Contact Application**](https://github.com/Gerrald-Andersen/Flutter-Contact-Application) — A cross-platform mobile app for managing personal contacts with features such as add, edit, delete, and search, built with Flutter and Firebase.
 - 🌐 [**Website Design 1**](https://github.com/Gerrald-Andersen/Website-Design-1) — A responsive and visually appealing website template demonstrating modern UI/UX practices, HTML5, CSS3, and JavaScript interactivity.      
-- ☕ [**Hospitality-Tech Point of Saler**](https://github.com/Gerrald-Andersen/Point-of-Sales) — POS system analysis, customer service workflows, and event planning tools
+- ☕ [**Hospitality-Tech Point of Sales**](https://github.com/Gerrald-Andersen/Point-of-Sales) — POS system analysis, customer service workflows, and event planning tools
 - 🔬 **Logic Circuit Projects** — Simulations, truth tables, and binary adders
 - 🧮 **Assembly Language Exercises** — Mnemonic-to-binary converters, instruction tracing, accumulator behavior
 - 📊 **Excel Troubleshooting Guides** — Real-world examples, error handling, and data visualization
