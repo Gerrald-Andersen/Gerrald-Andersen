@@ -44,10 +44,9 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 - 🚗 [**Used Car Price Prediction**](https://github.com/Gerrald-Andersen/Used-Car-Price-Prediction) — Predicting resale prices of used cars based on features such as make, model, year, mileage, and condition using machine learning regression models.
 - 📊 [**Superstore Dashboard Analyses**](https://github.com/Gerrald-Andersen/Superstore-Dashboard-Analyses) — An analytical dashboard visualizing sales, profit, and performance metrics for a retail superstore dataset using Python, Pandas, and visualization libraries.  
 - 🧮 [**Carsome Data Dashboard Analyses**](https://github.com/Gerrald-Andersen/Carsome-Data-Dashboard-Analyses) — A data analysis and visualization project on used car marketplace data, exploring trends, price distributions, and predictive insights using Python and BI tools.
-- 🛒 [**Point-of-Sales WebApp**](https://github.com/Gerrald-Andersen/Point-of-Sales) — A full-stack web application for managing sales, inventory, and transactions in retail, built with HTML, CSS, JavaScript, and PHP.
+- ☕ [**Hospitality-Tech Point of Sales**](https://github.com/Gerrald-Andersen/Point-of-Sales) — POS system for tracking stock inflow, remaining inventory, revenue, expenses, and overall profitability in hospitality operations.
 - 📱 [**Flutter Contact Application**](https://github.com/Gerrald-Andersen/Flutter-Contact-Application) — A cross-platform mobile app for managing personal contacts with features such as add, edit, delete, and search, built with Flutter and Firebase.
 - 🌐 [**Website Design 1**](https://github.com/Gerrald-Andersen/Website-Design-1) — A responsive and visually appealing website template demonstrating modern UI/UX practices, HTML5, CSS3, and JavaScript interactivity.      
-- ☕ [**Hospitality-Tech Point of Sales**](https://github.com/Gerrald-Andersen/Point-of-Sales) — POS system for tracking stock inflow, remaining inventory, revenue, expenses, and overall profitability in hospitality operations.
 - 🔬 **Logic Circuit Projects** — Simulations, truth tables, and binary adders
 - 🧮 **Assembly Language Exercises** — Mnemonic-to-binary converters, instruction tracing, accumulator behavior
 - 📊 **Excel Troubleshooting Guides** — Real-world examples, error handling, and data visualization
