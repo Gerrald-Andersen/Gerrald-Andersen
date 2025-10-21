@@ -68,6 +68,6 @@ I'm always open to collaboration, feedback, or just a good conversation about te
 
 [LinkedIn](https://www.linkedin.com/in/gerrald-andersen) || [email](https://mail.google.com/mail/?view=cm&to=gerrald.andersen@gmail.com)
 
-Thanks for stopping by — and happy building!
+Thanks for stopping by!
 
 ---
