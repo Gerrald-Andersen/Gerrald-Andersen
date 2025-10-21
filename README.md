@@ -64,9 +64,9 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 ## 🤝 Let's Connect
 
 I'm always open to collaboration, feedback, or just a good conversation about tech and learning. Feel free to explore my repositories and drop me a message.
-([LinkedIn](https://www.linkedin.com/in/gerrald-andersen))
 
-[email me](<mailto:gerrald.andersen@gmail.com>)
+
+[LinkedIn](https://www.linkedin.com/in/gerrald-andersen) || [email](https://mail.google.com/mail/?view=cm&to=gerrald.andersen@gmail.com)
 
 Thanks for stopping by — and happy building!
 
