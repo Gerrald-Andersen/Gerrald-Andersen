@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Gerrald Andersen! ([LinkedIn](https://www.linkedin.com/in/gerrald-andersen))
-l
+
 Welcome to my GitHub profile — A space where curiosity meets clarity, and technical exploration blends with real-world practicality.
 
 ---
