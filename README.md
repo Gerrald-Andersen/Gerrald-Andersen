@@ -24,7 +24,7 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0E76A8?style=for-the-badge) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge)
 
 ### 🤖 Artificial Intelligence  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge) ![Generative AI](https://img.shields.io/badge/Generative%20AI-9B59B6?style=for-the-badge) ![Large Language Models](https://img.shields.io/badge/LLM-34495E?style=for-the-badge)
 
 ### 🔌 APIs and Integrations  
 ![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge) ![WebSocket](https://img.shields.io/badge/WebSocket-FF9800?style=for-the-badge) ![Public API](https://img.shields.io/badge/Public%20API-2196F3?style=for-the-badge)
