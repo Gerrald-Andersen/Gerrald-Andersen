@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile — A space where curiosity meets clarity, and technical exploration blends with real-world practicality.
 
-![Gerrald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gerrald-Andersen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerrald-Andersen&layout=compact&theme=radical)
-
 ---
 
 ## 🧠 About Me
