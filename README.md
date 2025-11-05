@@ -14,7 +14,8 @@ Alongside my core focus in ML/AI, I bring strong capabilities in Flutter develop
 
 💼 **Work Experience**
 
-![INVISIBLE Technologies by Atlassian](https://img.shields.io/badge/INVISIBLE%20Technologies-Atlassian-blue?style=for-the-badge&logo=atlassian&logoColor=white) !(November 2025 - Present)
+![INVISIBLE Technologies by Atlassian](https://img.shields.io/badge/INVISIBLE%20Technologies-Atlassian-blue?style=for-the-badge&logo=atlassian&logoColor=white)
+(November 2025 - Present)
 
 ## 🛠️ Technical Skills
 
